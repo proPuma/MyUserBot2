@@ -2,8 +2,8 @@ import time
 from telethon import TelegramClient, events, sync
 import pyfiglet
 
-api_id = id
-api_hash = 'hash'
+api_id = 17577679
+api_hash ='812e370e850462e6c029eab52d662db5'
 
 client = TelegramClient('anon', api_id, api_hash)
 
